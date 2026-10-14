@@ -1,0 +1,23 @@
+13:53:39 INFO    log file: C:\Users\Beeclick\Desktop\PHD\task_1\unified_extractor\output\extractor.log
+13:53:39 INFO    == X2R1 (X2R1.pdf)
+13:53:54 INFO    X2R1.pdf: 126 pages, 3224 lines, 21 tables
+13:53:54 INFO       112 requirements, 0 figures/tables -> X2R1_Result.xlsx (14 s)
+13:53:54 INFO    == X2R3 (X2R3.pdf)
+13:54:10 INFO    X2R3.pdf: 147 pages, 3876 lines, 40 tables
+13:54:10 INFO       142 requirements, 2 figures/tables -> X2R3_Result.xlsx (17 s)
+13:54:11 INFO    == X2R5 (X2R5.pdf)
+13:54:28 INFO    X2R5.pdf: 140 pages, 4730 lines, 36 tables
+13:54:28 INFO       146 requirements, 2 figures/tables -> X2R5_Result.xlsx (17 s)
+13:54:28 INFO    == R2DATO_V1 (R2DATO_V1.pdf)
+13:54:50 INFO    R2DATO_V1.pdf: 197 pages, 4676 lines, 50 tables
+13:54:51 INFO       199 requirements, 1 figures/tables -> R2DATO_V1_Result.xlsx (23 s)
+13:54:51 INFO    == R2DATO_V2 (R2DATO_V2.pdf)
+13:55:18 INFO    R2DATO_V2.pdf: 155 pages, 5483 lines, 156 tables
+13:55:18 INFO       41 requirements, 0 figures/tables -> R2DATO_V2_Result.xlsx (27 s)
+13:55:18 INFO    
+== Comparison with the manual reference
+13:55:18 INFO    OK   X2R1: 112 extracted / 112 in reference, precision 1.000, recall 1.000, topic 100.0%, description 100.0%, traceability 100.0%, figures/tables 100.0%
+13:55:18 INFO    OK   X2R3: 142 extracted / 142 in reference, precision 1.000, recall 1.000, topic 100.0%, description 100.0%, traceability 100.0%, figures/tables 100.0%
+13:55:18 INFO    OK   X2R5: 146 extracted / 146 in reference, precision 1.000, recall 1.000, topic 100.0%, description 100.0%, traceability 100.0%, figures/tables 100.0%
+13:55:18 INFO    OK   R2DATO_V1: 199 extracted / 199 in reference, precision 1.000, recall 1.000, topic 100.0%, description 100.0%, traceability 100.0%, figures/tables 100.0%
+13:55:18 INFO    OK   R2DATO_V2: 41 extracted / 41 in reference, precision 1.000, recall 1.000, topic 100.0%, description 100.0%, traceability 100.0%, figures/tables 100.0%

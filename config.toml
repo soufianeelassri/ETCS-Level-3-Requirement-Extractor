@@ -1,0 +1,42 @@
+[ids]
+patterns = [
+    'REQ-[\w\-/]+',      # X2Rail 1/3/5, R2DATO V1
+    'ADD_\d+',           # R2DATO V2
+    'HDA_\d+',           # R2DATO V2
+    'REG_\d+',           # R2DATO V2
+]
+
+[[documents]]
+name = "X2R1"
+pdf = "input/X2R1.pdf"
+output = "output/X2R1_Result.xlsx"
+reference = "reference/X2Rail-1_D5.1_Requirements.xlsx"
+version = "X2R1"
+
+[[documents]]
+name = "X2R3"
+pdf = "input/X2R3.pdf"
+output = "output/X2R3_Result.xlsx"
+reference = "reference/X2Rail-3_D4.2_Requirements.xlsx"
+version = "X2R3"
+
+[[documents]]
+name = "X2R5"
+pdf = "input/X2R5.pdf"
+output = "output/X2R5_Result.xlsx"
+reference = "reference/X2Rail-5_D4.1_Requirements.xlsx"
+version = "X2R5"
+
+[[documents]]
+name = "R2DATO_V1"
+pdf = "input/R2DATO_V1.pdf"
+output = "output/R2DATO_V1_Result.xlsx"
+reference = "reference/R2DATO_D13.1_Requirements_v1.xlsx"
+version = "R2DATO"
+
+[[documents]]
+name = "R2DATO_V2"
+pdf = "input/R2DATO_V2.pdf"
+output = "output/R2DATO_V2_Result.xlsx"
+reference = "reference/R2DATO_D13.1_Requirements_v2.xlsx"
+version = "R2DATO"
